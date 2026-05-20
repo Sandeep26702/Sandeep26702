@@ -1,4 +1,4 @@
-# Hi there, I'm Sandeep! 👋
+# Hi there, I'm Sandeep Sharma! 👋
 
 <p align="left">
   <a href="https://github.com/Sandeep26702">
@@ -8,11 +8,26 @@
 
 ---
 
-### 🚀 About Me
-- 💻 I build scalable web applications using the **MERN Stack** and **Python**.
-- 🤖 Passionate about **AI-first applications**, Agentic workflows (LangGraph), and automation.
-- ⚡ I love optimizing database performance and writing clean, decoupled code.
+Hi, I'm Sandeep Sharma — a passionate full-stack developer focused on building scalable web applications and clean user experiences.
 
+💻 MERN Stack Developer
+⚙️ Working with ASP.NET Core Web API 8 & MVC 8
+🗄️ Experienced in SQL Server & Code-First Approach
+🚀 Interested in Full-Stack Development, APIs, and Modern Web Technologies
+📚 Continuously learning and improving problem-solving skills
+🔧 Tech Stack: React, Node.js, Express.js, MongoDB, C#, ASP.NET Core, SQL Server
+🎯 Goal: Build impactful and efficient software solutions
+Tech Stack
+
+React Node.js Express.js MongoDB C# ASP.NET Core SQL Server JavaScript HTML CSS
+
+Connect With Me
+🌐 GitHub: Your GitHub Link
+💼 LinkedIn: Your LinkedIn Link
+
+You can also use a shorter version:
+
+Full-stack developer specializing in MERN Stack and ASP.NET Core. Passionate about building scalable web applications, APIs, and modern user experiences.
 ---
 
 ### 🛠️ Tech Stack & Tools

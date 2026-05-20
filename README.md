@@ -22,8 +22,8 @@ Tech Stack
 React Node.js Express.js MongoDB C# ASP.NET Core SQL Server JavaScript HTML CSS
 
 Connect With Me
-🌐 GitHub: Your GitHub Link
-💼 LinkedIn: Your LinkedIn Link
+🌐 Gmail: shaxmask02@gmail.com
+💼 LinkedIn: sandeep-sharma-9732b5271
 
 You can also use a shorter version:
 
